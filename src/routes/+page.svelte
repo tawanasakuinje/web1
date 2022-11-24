@@ -37,7 +37,7 @@ import { onMount } from "svelte";
 
 <Nav/>
 
-<div class='h-4'></div>
+<div class='h-3'></div>
 
 
 <!--header-->
